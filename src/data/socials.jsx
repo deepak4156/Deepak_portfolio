@@ -19,7 +19,7 @@ const socials = [
     {
         id: 3,
         name: "Mail",
-        link: "mailto:vijaydhawal9001@gmail.com",
+        link: "mailto:deepakchhantyal4156@gmail.com",
         icon: <HiOutlineMail size={22} />,
         style: "hover:bg-white hover:text-[#EB4334]"
 

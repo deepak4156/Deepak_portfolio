@@ -15,9 +15,9 @@ const projects = [
     {
         img: ECOMMERCE_DASHBOARD,
         name: "Ecommerce_Dashboard",
-        demo: "https://ecommerce-dashboard-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Ecommerce_Dashboard",
-        description: "All in One Dashboard for managing Ecommerce Stores, built with NextJS, ReactJs and shadcn-ui with prisma, typescript, planetScale, and clerkauth.",
+        demo: "#",
+        code: "#",
+        description: "All in One Dashboard for managing Ecommerce Stores, built with ReactJs",
         style: {
             shadow: "shadow-[#3498AB]",
             cover: "from-[#3498AB]",
@@ -36,72 +36,72 @@ const projects = [
     //         display: " hidden group-hover:flex"
     //     }
     // },
-    {
-        img: Dev_News,
-        name: "Dev_News",
-        demo: "https://dev-news-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Dev_News",
-        description: "Dev News is a news website, where you can find the latest news anytime, anywhere",
-        style: {
-            shadow: "shadow-[#FB923C]",
-            cover: "from-[#FB923C]",
-            display: " hidden group-hover:flex"
-        }
-    },
-    {
-        img: DevFolio,
-        name: "DevFolio",
-        demo: "https://dev-folio-793.vercel.app",
-        code: "https://github.com/dhawal-793/DevFolio",
-        description: "Devfolio: Dhawal's Personal portfolio built with React Js, Tailwind CSS and Vite Js",
-        style: {
-            shadow: "shadow-[#23CEEE]",
-            cover: "from-[#23CEEE]",
-            display: " hidden group-hover:flex"
-        }
-    },
+    // {
+    //     img: Dev_News,
+    //     name: "Dev_News",
+    //     demo: "https://dev-news-793.vercel.app/",
+    //     code: "https://github.com/dhawal-793/Dev_News",
+    //     description: "Dev News is a news website, where you can find the latest news anytime, anywhere",
+    //     style: {
+    //         shadow: "shadow-[#FB923C]",
+    //         cover: "from-[#FB923C]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
+    // {
+    //     img: DevFolio,
+    //     name: "DevFolio",
+    //     demo: "https://dev-folio-793.vercel.app",
+    //     code: "https://github.com/dhawal-793/DevFolio",
+    //     description: "Devfolio: Dhawal's Personal portfolio built with React Js, Tailwind CSS and Vite Js",
+    //     style: {
+    //         shadow: "shadow-[#23CEEE]",
+    //         cover: "from-[#23CEEE]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
     {
         img: Dev_Notes,
         name: "DevNotes",
-        demo: "https://dev-notes-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Dev_Notes",
-        description: "DevNotes is a Simple Notes App Created using MERN Stack with complete user Authentication.",
+        demo: "#",
+        code: "#",
+        description: "DevNotes is a Simple Notes App Created using React.js",
         style: {
             shadow: "shadow-[#F8FAFC]",
             cover: "from-[#F8FAFC]",
             display: " hidden group-hover:flex"
         }
     },
-    {
-        img: FAC,
-        name: "FontAwesome Clone",
-        demo: "https://dhawal-793.github.io/Font-Awesome-Clone/",
-        code: "https://github.com/dhawal-793/Font-Awesome-Clone",
-        description: "FontAwesome Clone is a Project based on Fontawesome.com, created using React Js and Tailwind CSS.",
-        style: {
-            shadow: "shadow-[#FFD43B]",
-            cover: "from-[#FFD43B]",
-            display: " hidden group-hover:flex"
-        }
-    },
-    {
-        img: SIMON_GAME,
-        name: "Simon Game",
-        demo: "https://dhawal-793.github.io/Simon-Game/",
-        code: "https://github.com/dhawal-793/Simon-Game",
-        description: "Simon Game is a very simple game created using React Js and Tailwind CSS.",
-        style: {
-            shadow: "shadow-[#011F3F]",
-            cover: "from-[#011F3F]",
-            display: " hidden group-hover:flex"
-        }
-    },
+    // {
+    //     img: FAC,
+    //     name: "FontAwesome Clone",
+    //     demo: "https://dhawal-793.github.io/Font-Awesome-Clone/",
+    //     code: "https://github.com/dhawal-793/Font-Awesome-Clone",
+    //     description: "FontAwesome Clone is a Project based on Fontawesome.com, created using React Js and Tailwind CSS.",
+    //     style: {
+    //         shadow: "shadow-[#FFD43B]",
+    //         cover: "from-[#FFD43B]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
+    // {
+    //     img: SIMON_GAME,
+    //     name: "Simon Game",
+    //     demo: "https://dhawal-793.github.io/Simon-Game/",
+    //     code: "https://github.com/dhawal-793/Simon-Game",
+    //     description: "Simon Game is a very simple game created using React Js and Tailwind CSS.",
+    //     style: {
+    //         shadow: "shadow-[#011F3F]",
+    //         cover: "from-[#011F3F]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
     {
         img: TODO_APP,
         name: "TODO APP",
-        demo: "https://meen-to-do-app.onrender.com/",
-        code: "https://github.com/dhawal-793/MEEN-TODO-APP",
-        description: "MEEN ToDO App is a very simple Todo App created using MongoDb,Express Js EJs and Node Js.",
+        demo: "#",
+        code: "#",
+        description: " ToDO App is a very simple Todo App created using React.Js",
         style: {
             shadow: "shadow-[#A582E2]",
             cover: "from-[#A582E2]",
@@ -111,27 +111,27 @@ const projects = [
     {
         img: ECF,
         name: "Ecommerce Frontend",
-        demo: "https://dhawal-793.github.io/E-Commerce-Website-Front-End-Design/",
-        code: "https://github.com/dhawal-793/E-Commerce-Website-Front-End-Design",
-        description: "Frontend Design of an Ecommerce Website created using HTML CSS JS and Bootstrap.",
+        demo: "#",
+        code: "#",
+        description: "Frontend Design of an Ecommerce Website created using HTML CSS JS and Tailwind.",
         style: {
             shadow: "shadow-[#CEC3FB]",
             cover: "from-[#CEC3FB]",
             display: " hidden group-hover:flex"
         }
     },
-    {
-        img: CLI_TMA,
-        name: "Task Manager CLI",
-        demo: "https://github.com/dhawal-793/Command-line-application-for-Task-Management",
-        code: "https://github.com/dhawal-793/Command-line-application-for-Task-Management",
-        description: "This is a Task Management CLI App created using C++, here user can create, read, Update and delete tasks.",
-        style: {
-            shadow: "shadow-[#763145]",
-            cover: "from-[#763145]",
-            display: " hidden group-hover:flex"
-        }
-    },
+    // {
+    //     img: CLI_TMA,
+    //     name: "Task Manager CLI",
+    //     demo: "https://github.com/dhawal-793/Command-line-application-for-Task-Management",
+    //     code: "https://github.com/dhawal-793/Command-line-application-for-Task-Management",
+    //     description: "This is a Task Management CLI App created using C++, here user can create, read, Update and delete tasks.",
+    //     style: {
+    //         shadow: "shadow-[#763145]",
+    //         cover: "from-[#763145]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
     // {
     //     img: "",
     //     name: "WordCloud Generator",
