@@ -17,7 +17,7 @@ const Home = () => {
                     <h1 className='text-5xl xs:text-6xl lg:text-7xl font-bold '>
                         <span className='block'>Hi There, </span>
                         <span>I'm </span>
-                        <span className='text-transparent bg-gradient-to-br from-cyan-300 to-blue-600 bg-clip-text'> Dhawal </span>
+                        <span className='text-transparent bg-gradient-to-br from-cyan-300 to-blue-600 bg-clip-text'> Deepak </span>
                     </h1>
                     <p className='text-gray-400 text-xl xs:text-2xl font-semibold py-4 min-w-[16rem] xs:min-w-[25rem] max-w-[26rem]'>
                         <span className='block xs:inline'> I am into</span>
